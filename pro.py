@@ -1,7 +1,7 @@
 
 a = 8
 b = 13
-d = b - a
+d = b * a
 c = a + b
 
 print(c)
